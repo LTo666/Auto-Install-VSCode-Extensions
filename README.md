@@ -1,4 +1,4 @@
-# Auto-Install-VSCode-Extensions
+# Auto Install VSCode Extensions
 
 You can install your VS Code extensions using the batch file
 
